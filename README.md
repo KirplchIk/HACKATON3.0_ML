@@ -1,4 +1,4 @@
-Ок, вот сокращенная версия документации в формате GitHub Markdown (README.md):
+
 
 # Детектор Людей HOG + SVM (person_detector_hog_svm)
 
